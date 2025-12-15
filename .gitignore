@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+data/
+dataset/
+datasets/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.zip
+*.tar
+*.tar.gz
